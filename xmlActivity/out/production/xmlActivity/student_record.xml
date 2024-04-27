@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!-- Practicing a comment -->
+<students>
+    <student id="1">
+        <name>Chuck</name>
+        <dob>2000</dob>
+        <major>CS</major>
+    </student>
+    <student id="2">
+        <name>Bob</name>
+        <dob>2002</dob>
+        <major>Math</major>
+    </student>
+    <student id="3">
+        <name>Joe</name>
+        <dob>1997</dob>
+        <major>English</major>
+    </student>
+</students>
